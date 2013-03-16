@@ -13,6 +13,5 @@
    <property name="javax.persistence.jdbc.password" value="sgadmin" />
    <!-- EclipseLink should create the database schema automatically -->
   </properties>
-
  </persistence-unit>
 </persistence>
